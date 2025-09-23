@@ -53,11 +53,11 @@ VS Code
    - Once base case is reached, the stack starts **unwinding**, returning values to previous calls in reverse order.
    
    Example (sumup(3)):
-     sumup(3) → 3 + sumup(2)
-     sumup(2) → 2 + sumup(1)
-     sumup(1) → 1 + sumup(0)
-     sumup(0) → 0 (base case reached)
-     Stack unwinds: 0 → 1 → 3 → 6 (final result)
+   - sumup(3) → 3 + sumup(2)
+   - sumup(2) → 2 + sumup(1)
+   - sumup(1) → 1 + sumup(0)
+   - sumup(0) → 0 (base case reached)
+   - Stack unwinds: 0 → 1 → 3 → 6 (final result)
 
 ---
 
