@@ -155,7 +155,7 @@ VS Code
 
 ## **Flowcharts**
 
-**1. Sum of N Numbers**  
+### 1. Sum of N Numbers  
 ```
           +----------------------+
           |        Start         |
@@ -199,7 +199,7 @@ VS Code
 
 ---
 
-**2. Factorial**  
+### 2. Factorial 
 ```
 +-------------------------------+
 |             Start             |
@@ -229,7 +229,7 @@ VS Code
 
 ---
 
-**3. String Reversal**  
+### 3. String Reversal
 ```
 +-------------------------------+
 |             Start             |
@@ -265,7 +265,7 @@ VS Code
 
 ---
 
-**4. Number Reversal**
+### 4. Number Reversal
 ```
 +-------------------------------+
 |             Start             |
